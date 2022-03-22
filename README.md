@@ -1,1 +1,2 @@
-# 14-je-microservices-configrepo
+# microservices-config
+Central repository configurations 
